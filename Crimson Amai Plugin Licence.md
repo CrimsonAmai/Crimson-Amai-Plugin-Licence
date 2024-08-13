@@ -1,6 +1,6 @@
 # Crimson Amai Plugin License Agreement
 
-**Version 1.0**
+**Version 1.1** (13.8.2024)
 
 ## 1. Grant of License
 
@@ -11,6 +11,7 @@ You are granted a non-exclusive, non-transferable, and revocable license to use 
 You agree not to:
 
 - Modify, alter, adapt, or create derivative works based on any of the Plugins.
+- Change the name of any of the Plugins
 - Distribute, sublicense, lease, rent, or otherwise transfer any of the Plugins or any portion thereof to any third party.
 - Reverse engineer, decompile, disassemble, or attempt to discover the source code of any of the Plugins.
 - Remove, alter, or obscure any proprietary notices (including copyright and trademark notices) of the Plugins.
