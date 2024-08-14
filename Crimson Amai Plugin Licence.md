@@ -37,7 +37,7 @@ This agreement shall be governed by and construed in accordance with the laws of
 This agreement constitutes the entire understanding between you and the author concerning the subject matter hereof and supersedes all prior agreements and understandings, whether oral or written.
 
 ---
-As a plugin creator i'm not obligated provide source code anywhere
+As a plugin creator i'm not required to provide source code anywhere
 
 anyone can't use this licenece except me
 
