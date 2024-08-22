@@ -1,6 +1,6 @@
 # Crimson Amai Products License Agreement
 
-**Version 1.2** (13.8.2024)
+**Version 1.3** (13.8.2024)
 
 ## 1. Grant of License
 
@@ -15,6 +15,7 @@ You agree not to:
 - Distribute, sublicense, lease, rent, or otherwise transfer any of the Products or any portion thereof to any third party.
 - Reverse engineer, decompile, disassemble, or attempt to discover the source code or underlying structure of any of the Products.
 - Remove, alter, or obscure any proprietary notices (including copyright and trademark notices) of the Products.
+- **Create or attempt to create any products that are similar to, or based upon, the Products, whether in whole or in part.**
 
 ## 3. Intellectual Property Rights
 
